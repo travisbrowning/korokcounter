@@ -43,3 +43,13 @@ p {
     width: 75vw;
     margin: auto;
 }
+
+img {
+    width: 75vw;
+    height: auto;
+    max-width: 500px;
+}
+
+#prize {
+    visibility: hidden;
+}
