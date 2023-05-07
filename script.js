@@ -1,4 +1,4 @@
-let count = 890;
+let count = 0;
 let countEl = document.getElementById("count-el");
 
 function increment() {
