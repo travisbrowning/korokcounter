@@ -1,0 +1,45 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: 100% 100vh;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 7%;
+    color: #fdffe0;
+
+}
+
+button {
+    background-color: #86a5a9;
+    border: solid 2px #536f50;
+    border-radius: 5px;
+    padding: 15px 0;
+    width: 215px;
+    color: #fdffe0;
+    margin: 15px auto;
+    display: block;
+    font-size: 15px;
+
+}
+
+button:hover {
+    color: #fdec6e;
+    text-shadow: 50px 50px 200px #fdec6e;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 3.5em;
+}
+
+p {
+    font-size: 1.5em
+}
+
+.textbox {
+    width: 75vw;
+    margin: auto;
+}
