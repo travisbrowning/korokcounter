@@ -1,11 +1,17 @@
-body {
+html {
     background-image: url(bg.jpg);
-    background-size: 100% 100vh;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
+    min-height: 900px;
+}
+
+body {
+
     text-align: center;
     font-family: sans-serif;
     margin-top: 7%;
     color: #fdffe0;
+    height: 100%;
 
 }
 
